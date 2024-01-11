@@ -41,4 +41,4 @@ expo-env.d.ts
 # @end expo-cli
 
 # clean up files
-/constants/dumy.tsx
+/src/constants/dumy.tsx
